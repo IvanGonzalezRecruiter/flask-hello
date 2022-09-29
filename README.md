@@ -7,7 +7,7 @@
 
 ## Features
 
-- Extensive documentation [here](https://github.com/4GeeksAcademy/flask-rest-hello/tree/master/docs).
+- Extensive documentation [here](https://start.4geeksacademy.com).
 - Integrated with Pipenv for package managing.
 - Fast deloyment to heroku with `$ pipenv run deploy`.
 - Use of `.env` file.
@@ -71,4 +71,4 @@ $ heroku create <your_application_name>
 // Commit and push to heroku (commited your changes)
 $ git push heroku main
 ```
-:warning: For a more detailed explanation on working with .env variables or the MySQL database [read the full guide](https://github.com/4GeeksAcademy/flask-rest-hello/blob/master/docs/DEPLOY_YOUR_APP.md).
+:warning: For a more detailed explanation on working with .env variables or the MySQL database [read the full guide](https://start.4geeksacademy.com/backend/deploy-heroku-mysql).
